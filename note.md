@@ -76,3 +76,5 @@
     + MozillaCookieJar(filename) 形式保存 cookie
     + LWPCookieJar(filename) 形式保存 cookie
     + 读取 cookie 请求，获取登录后的信息
+
+## 四、BeautifulSoup 库解析网页
